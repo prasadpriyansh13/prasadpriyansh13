@@ -43,7 +43,7 @@ me.say_hi()
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prasadpriyansh13&theme=tokyonight" />
 </p>
 
-## Weekly Coding Stats
+/* ## Weekly Coding Stats
 
 ```text
 Python       █████████████████░░░░░   75.24% 
@@ -52,7 +52,7 @@ Julia        ██████░░░░░░░░░░░░░░░░ 
 HTML/CSS     ████░░░░░░░░░░░░░░░░░░   16.12% 
 Docker       ██░░░░░░░░░░░░░░░░░░░░   08.10%
 ```
-
+*/
 
 ### Tools & Frameworks 
   <p align="left">
