@@ -5,7 +5,7 @@
 
 [![](https://komarev.com/ghpvc/?username=prasadpriyansh13&color=blueviolet&style=for-the-badge)](https://github.com/prasadpriyansh13)
 
-<h2>Current Focus</h2>
+<h3>Current Focus</h3>
 
 <div>
   <img align="right" alt="Coding" height = "330" width="400" src="https://i.pinimg.com/originals/4f/4e/16/4f4e1638e028090ff030ec2ae0fc6919.gif">
